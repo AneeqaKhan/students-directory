@@ -54,6 +54,3 @@ Open your browser and navigate to http://localhost:3000 to view the application.
 - **Search:** Type in the search box to filter students by name or form.
 - **Sort:** Click the sort arrow in the table header to toggle between ascending and descending order.
 
-## License
-
-This project is licensed under the MIT License

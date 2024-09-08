@@ -5,7 +5,11 @@
 The Student List Application is a React-based web app that displays a list of students. Users can search for students by name or form, and sort the list in ascending or descending order by student name. The application uses React hooks, custom hooks for search functionality with debounce, and includes sorting and filtering features.
 
 ## Screenshots
+
+### Desktop View
 <img width="1428" alt="Screenshot 2024-09-08 at 6 45 02 PM" src="https://github.com/user-attachments/assets/4071026a-f9bf-4dac-875d-be46e67efb52">
+
+### Mobile View
 <img width="317" alt="Screenshot 2024-09-08 at 6 45 39 PM" src="https://github.com/user-attachments/assets/1dde0495-2836-454b-af6a-83e85f8e8fc1">
 
 ## Features

@@ -1,8 +1,8 @@
-# Student List Application
+# Students Directory Application
 
 ## Overview
 
-The Student List Application is a React-based web app that displays a list of students. Users can search for students by name or form, and sort the list in ascending or descending order by student name. The application uses React hooks, custom hooks for search functionality with debounce, and includes sorting and filtering features.
+The Students directory Application is a React-based web app that displays a list of students. Users can search for students by name or form, and sort the list in ascending or descending order by student name. The application uses React hooks, custom hooks for search functionality with debounce, and includes sorting and filtering features.
 
 ## Screenshots
 
